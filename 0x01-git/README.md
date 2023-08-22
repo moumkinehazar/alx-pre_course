@@ -1,0 +1,1 @@
+Read me inside the dir git
